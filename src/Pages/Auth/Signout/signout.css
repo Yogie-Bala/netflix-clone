@@ -1,0 +1,59 @@
+.Button-signout{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    border-radius: 3px;
+    border: 0;
+    position: absolute;
+    top: 25px;
+    left: 85%;
+    font-weight: bold;
+    cursor: pointer;
+}
+.signout-hole{
+    background-image: url(../../../Assests/signout\ img.jpg);
+    background-size: 110%;
+}
+.signout-text{
+    background-color: white;
+    /* padding: 15px; */
+    margin-top: 120px;
+    height: 270px;
+    width: 400px;
+   margin-left: 550px;
+}
+.signout-text1{
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 30px;
+    padding-left: 25px;
+    
+}
+.signout-text2{
+    color: black;
+    /* padding-top: 30px; */
+    padding-left: 25px;
+
+    
+}
+.signout-text3{
+    color: black;
+    padding-left: 25px;
+    
+}
+.gonow-button{
+    background-color: #0080ff;
+    width: 320px;
+    border: 0;
+    margin-left: 30px;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+.signout-footer{
+    background-color: rgba(0,0,0,0.8);
+    height: 350px;
+    margin-top: 90px;
+}

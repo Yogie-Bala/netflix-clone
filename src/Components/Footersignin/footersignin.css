@@ -1,0 +1,32 @@
+.number{
+    color: white;
+    margin-left: 200px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+.foot{
+    color: white;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 280px 280px 280px 280px;
+    gap: 10px;
+    margin-left: 200px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.foot-head{
+    /* background-color: black; */
+    background-color: black;
+    display: flex;
+    height: 350px;
+    flex-direction: column;
+    color: white;
+    position: relative;
+}
+.language-footer1{
+    padding-left: 200px;
+    padding-top: 20px;
+    /* margin-top: 20px; */
+}

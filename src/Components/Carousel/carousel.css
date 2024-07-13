@@ -1,0 +1,32 @@
+.rows{
+    display: flex;
+    flex-direction: row;
+    /* margin-top: 50px; */
+    gap: -5px;
+}
+.left-arrow{
+    top: 110px;
+    border: 0;
+    color: white;
+    position: relative;
+    left: 10px;
+    z-index: 2;
+    background: none;
+}
+.right-arrow{
+    top: -120px;
+    border: 0;
+    position: relative;
+    left: 1425px;
+    color: white;
+    background: none;
+    /* float: right; */
+}
+.arrow-icons{
+    display: none;
+    height: 30px;
+    width: 30px;
+}
+.main-rows:hover .arrow-icons{
+    display: block;
+}

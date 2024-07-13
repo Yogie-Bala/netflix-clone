@@ -1,0 +1,53 @@
+/* #Email-input{ */
+    /* background: transparent;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 20px;
+    width: 334px;
+    color: white;
+    margin-left: 29.5%;
+    position: relative;
+    bottom: 132px; */
+    /* margin-top: -80px; */
+    /* margin-top: 50px; */
+/* } */
+
+/* .input-parent input{
+   position: relative;
+   top: 100px;
+   left: 50px;
+   background-color:transparent;
+   color: black;
+    padding: 10px;
+    color: black;
+    border: 1px solid white;
+    
+} */
+.input-sign{
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 20px;
+    width: 300px;
+    color: white;
+    margin-top: 80px;
+    margin-left: 70px;
+    /* position: relative; */
+    /* left: 70px;
+    top: 80px; */
+
+}
+.input-sign1{
+    /* margin-top: 30px; */
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 20px;
+    width: 300px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 70px;
+    /* position: relative;
+    left: 70px;
+    top: 110px; */
+}

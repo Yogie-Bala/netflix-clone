@@ -1,0 +1,16 @@
+.popular-movie{
+    margin-top: -100px;
+    background-color: black;
+}
+/* .popular-row{
+    position: relative;
+    top: 80px;
+   
+} */
+.popular-nav{
+    position: absolute;
+    top: 0px;
+}
+.main-home{
+    margin-top: 100px;
+}

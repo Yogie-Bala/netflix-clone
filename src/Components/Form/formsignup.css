@@ -1,0 +1,108 @@
+/* .signup-form{
+    color: black;
+    background-color: black;
+} */
+.signup-form{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+.step{
+    font-size: 13px;
+}
+.welcome-signup{
+    font-size: 27px;
+    font-weight:600;
+    /* width: 10px; */
+    margin-top: -13px;
+}
+.join-signup{
+    font-size: 27px;
+    font-weight:600;
+    margin-top: -23px;
+
+}
+.enter-signup{
+    /* font-size: 25px; */
+    /* font-weight:600; */
+    margin-top: -18px;
+
+}
+.email-signup{
+    margin-top: 30px;
+}
+.mail{
+    margin-top: -13px;
+    font-weight:600 ;
+}
+.input-signup{
+    background: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 15px;
+    width: 300px;
+    color: black;
+    position: relative;
+    /* left: -5px; */
+    top: 25px;
+
+}
+.email-signup{
+    background: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 15px;
+    width: 300px;
+    color: black;
+    position: relative;
+    /* left: -5px; */
+    /* top: 5px; */
+
+}
+.signup-next{
+    background-color: red;
+    width: 334px;
+    padding: 15px;
+    border: 0;
+    border-radius: 2px;
+    position: relative;
+    top: 5px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    /* bottom: 200px; */
+}
+.forget-signup{
+    margin-top: 35px;
+    
+}
+.foottt{
+    color: black;
+}
+.footer-signup{
+    margin-top: 280px;
+   background-color: #f3f3f3;
+   
+}
+.signup-call{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.signup-num{
+    margin-top: -37px;
+    margin-left: 120px;
+}
+.signup-foot{
+    display: grid;
+    grid-template-columns: 280px 280px 280px 280px;
+    gap: 10px;
+    margin-left: 200px;
+    margin-top: 15px;
+    text-decoration: underline;
+}
+.signup-lang{
+    margin-left: 200px;
+    margin-top: 0px;
+}
+.signuplang{
+    color: black;
+}

@@ -1,0 +1,53 @@
+.premium-hole{
+    border: 1px solid black ;
+    border-radius: 10px;
+    width: 280px;
+    /* padding: 10px; */
+}
+.premium-hole1{
+    border: 1px solid black ;
+    border-radius: 10px;
+    width: 280px;
+    margin-left: 20px;
+    /* padding: 10px; */
+}
+.premium-hole2{
+    border: 1px solid black ;
+    border-radius: 10px;
+    width: 280px;
+    margin-left: 20px;
+    /* padding: 10px; */
+}
+.premium-hole3{
+    border: 1px solid black ;
+    border-radius: 10px;
+    width: 280px;
+    margin-left: 20px;
+    /* padding: 10px; */
+}
+
+.premium-price{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 8px;
+    width: 240px;
+    margin-left: 15px;
+}
+.premium-4k{
+    margin-left: 10px;
+}
+.premium-plan{
+    margin-left: 20px;
+    font-size: 14px;
+}
+.plan-hole{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+}
+.plan-text{
+    color: black;
+    font-size: 12px;
+    margin-left: 210px;
+    
+}

@@ -1,0 +1,41 @@
+/* #container1{
+    color: white;
+    font-size: xx-large;
+} */
+.unlimited{
+    color: white;
+    font-size: xxx-large;
+    font-weight: bold;
+    margin-top: 200px;
+}
+.watch{
+    color: white;
+    font-size: x-large;position: relative; bottom: 30px;
+}
+.ready{
+    color: white;
+    font-size: 20px;
+    position: relative; bottom: 30px;
+}
+.one{
+    color: white;
+    margin-top: 50px;
+    margin-left: 300px;
+    /* color: white; */
+    font-size: 20px;
+    position: relative; bottom: 30px;
+    
+}
+.enjoy{
+    color: white;
+    background-color: black;
+}
+.download{
+    color: rgb(11, 11, 205);
+    position: relative;
+    bottom: 350px;
+    left: 70px;
+}
+/* h1{
+    font-size: xxx-large;
+} */

@@ -1,0 +1,39 @@
+/* .toggle-container{ */
+    /* background-color: black; */
+    /* color: white; */
+    /* margin-top: 80px; */
+/* } */
+.accord-container{
+    background-color: rgb(45,45,45);
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    width: 73%;
+    font-size: 25px;
+    margin-left:190px ;
+    /* display: flex;
+    flex-direction: row; */
+    margin-top: 10px;
+    
+}
+/* .accord-item{ */
+    /* padding-top: 100px; */
+/* } */
+.accord-container:hover{
+    background-color: gray;
+}
+.accord-answer{
+        background-color: rgb(45,45,45);
+        padding: 2px;
+        padding-left: 10px;
+    padding-right: 10px;
+        
+        width: 73%;
+        color: white;
+        font-size: 23px;
+        margin-left:190px ;
+        /* display: flex;
+        flex-direction: row; */
+        margin-top: 5px;
+}

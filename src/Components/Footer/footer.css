@@ -1,0 +1,30 @@
+.number{
+    color: white;
+    margin-left: 200px;
+    display: flex;
+    flex-direction: row;
+}
+.foot{
+    color: white;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 280px 280px 280px 280px;
+    gap: 10px;
+    margin-left: 200px;
+    margin-top: 15px;
+    text-decoration: underline;
+}
+.foot-india{
+    color:white;
+    /* color: black; */
+    /* margin-left: 200px; */
+}
+.foot-lang{
+    color: red;
+}
+.language-footer{
+    padding-left: 200px;
+    padding-top: 20px;
+    /* margin-top: 20px; */
+}

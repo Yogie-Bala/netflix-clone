@@ -1,0 +1,72 @@
+.netflix-signup2{
+    height: 40px;
+    padding-left: 120px;
+    padding-top: 20px;
+}
+.signup2-hole{
+    margin-top: 150px;
+}
+/* .tick-svg{
+    height: 50px;
+    margin-left: 700px;
+    color: red;
+} */
+ #tick-svg1{
+height: 50px;
+    margin-left: 700px;
+    color: red;
+ }
+.step2{
+    margin-left: 688px;
+}
+.line1{
+    margin-left: 620px;
+    font-size: 28px;
+    font-weight: 600;
+}
+#tick-svg2{
+    height: 30px;
+    color: red;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.line2{
+    margin-left: 640px;
+    margin-top: -52px;
+}
+
+#tick-svg3{
+    height: 30px;
+    color: red;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.line3{
+    margin-left: 640px;
+    margin-top: -52px;
+}
+
+#tick-svg4{
+    height: 30px;
+    color: red;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.line4{
+    margin-left: 640px;
+    margin-top: -48px;
+}
+.signup2-next{
+    background-color: red;
+    width: 280px;
+    margin-left: 600px;
+    margin-top: 20px;
+    padding: 15px;
+    border: 0;
+    border-radius: 2px;
+    /* position: relative;
+    top: 5px; */
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}

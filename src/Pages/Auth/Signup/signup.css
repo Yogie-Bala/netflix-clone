@@ -1,0 +1,31 @@
+.netflix-signup{
+    height: 40px;
+    padding-left: 120px;
+    padding-top: 20px;
+}
+.Button-signup{
+    background-color:white;
+    color:black;
+    /* padding: 10px; */
+    
+    font-size: 23px;
+    /* text-decoration: underline; */
+    width: 80px;
+    /* border-radius: 3px; */
+    border: 0;
+    position: absolute;
+    top: 28px;
+    left: 87%;
+    
+    /* font-weight: bold; */
+    cursor: pointer;
+}
+.Button-signup:hover{
+    text-decoration: underline;
+}
+.hrline{
+    margin-top: 20px;
+}
+.foot-signup{
+    color: black;
+}

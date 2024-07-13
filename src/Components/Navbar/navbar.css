@@ -1,0 +1,23 @@
+/* .Netflix-logo{
+    width: 200px;
+    height: 200px;
+    margin-left: 150px;
+    position: relative;
+    bottom: 50px;
+} */
+.netflix_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 180px;
+    padding-right: 250px;
+    padding-top: 20px;
+}
+.netlfix_logo img{
+    /* width: 200px; */
+    height: 40px;
+}
+.netflix_ryt{
+    display: flex;
+    
+}

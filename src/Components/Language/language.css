@@ -1,0 +1,54 @@
+/* #svglang{
+    color: white;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 75.5%;
+    top: 30px;
+}
+
+#language{
+    background-color: transparent;
+    color: white;
+    padding: 8px;
+    font-weight: bold;
+    position: absolute;
+    top: 25px;
+    left: 75%;
+    width: 120px;
+    text-align: center;
+}
+.foot-lang{
+    background-color: transparent;
+    color: white;
+    padding: 8px;
+    font-weight: bold;
+    position: absolute;
+    top: 370px;
+    left: 200px;
+    width: 120px;
+    text-align: center;
+} */
+.language_slt{
+    display: flex;
+    color: white;
+}
+.lang_symbol svg{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    color:white;
+    padding-top: 5px;
+    padding-left: 5px;
+
+}
+#language select{
+    height: 30px;
+    padding-right: 10px;
+    padding-left: 30px;
+    background: transparent;
+    color: white;
+    border-radius: 2px;
+}
+
+

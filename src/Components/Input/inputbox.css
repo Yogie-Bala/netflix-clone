@@ -1,0 +1,15 @@
+.email_input{
+    /* margin-left: 200px; */
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 20px;
+    width: 334px;
+    color: white;
+    margin-left: 29.5%;
+    position: relative;
+    bottom: 132px;
+}
+.get-arrow{
+    margin-top: 100px;
+}
